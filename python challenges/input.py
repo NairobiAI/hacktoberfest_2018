@@ -1,2 +1,2 @@
-# Create a function that takes in a users input and displays
+# Create a function that takes in a user's input and displays it
 # back to the screen

@@ -1,1 +1,2 @@
-# create a function that reverses a string
+# Create a function takes in a string and returns
+# the reverse of that string
