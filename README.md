@@ -45,3 +45,7 @@ git commit -m 'Commit message'
 git push origin branch-name(which is your name)
 ```
 - Create a pull request
+
+### Be a part of Nairobi.AI
+
+Join our Meetup: [https://www.meetup.com/NairobiAI/](https://www.meetup.com/NairobiAI/)
