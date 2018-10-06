@@ -1,2 +1,5 @@
-# Create a function that takes in a user's input and displays it
-# back to the screen
+def take_input():
+  s = input('Input: ')
+  print(s)
+  
+# take_input()
