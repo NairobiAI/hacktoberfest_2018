@@ -57,6 +57,7 @@ git add Contributors.md
 git commit -m 'Commit message'
 git push origin master
 ```
+- Create a pull request from the master branch
 
 ### Be a part of Nairobi.AI
 
