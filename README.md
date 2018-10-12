@@ -1,4 +1,4 @@
-# Hacktoberfest
+# Hacktoberfest :computer: :jack_o_lantern:
 
 This is a beginner friendly project to help you get started with [hacktoberfest](https://hacktoberfest.digitalocean.com/)
  and making your first pull request.
