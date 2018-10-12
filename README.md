@@ -18,7 +18,7 @@ We have created simple challenges in python for you to complete and make a pull 
 
 ## How to contribute to this project
 
-- Complete the included python challenges
+- Complete the included challenges
 - Add your profile to `Contributors.md`
 
 ## Getting Started
@@ -36,7 +36,7 @@ git clone https://github.com/your-username/Hacktoberfest_2018.git
 git checkout -b your-name
 ```
 
-- Work on the python challenges and add your profile to `Contributors.md`
+- Work on the challenges
 - Commit and push
 
 ```markdown
@@ -45,6 +45,18 @@ git commit -m 'Commit message'
 git push origin branch-name(which is your name)
 ```
 - Create a pull request
+
+### Getting your name on Contributors list
+```markdown
+git checkout master
+```
+- Add your profile to `Contributors.md`
+
+```markdown
+git add Contributors.md
+git commit -m 'Commit message'
+git push origin master
+```
 
 ### Be a part of Nairobi.AI
 
