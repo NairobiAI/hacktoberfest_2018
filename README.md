@@ -18,6 +18,7 @@ We have created simple challenges in python for you to complete and make a pull 
 
 ## How to contribute to this project
 
+- Star this repo
 - Complete the included challenges
 - Add your profile to `Contributors.md`
 
