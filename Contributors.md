@@ -1,4 +1,6 @@
-<!--
+# Contributors
+
+<!-- ##### Don't delete template ########
 
 ## Template to use for contributors 
 
