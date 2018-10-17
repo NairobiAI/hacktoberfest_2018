@@ -21,7 +21,7 @@
 - Github: [Shuayb01](github.com/shuayb01)
 - Instagram: [shuaybs.619](instagram.com/shuaybs.619)
 
-#### Name: Wanjiru Catherine
+#### Name: Wanjiru Catherine
 - Bio: Computer Science Student | Android developer| AI enthusiast
 - Github: [kateshiru](github.com/kateshiru)
 - Twitter: [shiru_munene](https://twitter.com/shiru_munene)
