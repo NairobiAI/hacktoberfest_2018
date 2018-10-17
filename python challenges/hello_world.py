@@ -1,3 +1,3 @@
 # Create a function that returns Hello World.
-def HelloWorld():
+def helloWorld():
 	return "Hello World"
