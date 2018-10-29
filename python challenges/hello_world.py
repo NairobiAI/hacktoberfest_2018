@@ -1,1 +1,3 @@
-# Create a function that returns Hello World.
+def hello():
+	print("Hello World")
+	return

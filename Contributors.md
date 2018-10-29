@@ -25,3 +25,9 @@
 - Bio: Computer Science Student | Android developer| AI enthusiast
 - Github: [kateshiru](github.com/kateshiru)
 - Twitter: [shiru_munene](https://twitter.com/shiru_munene)
+
+#### Name: Ted Jacobs
+- Bio: CodeLouisville student
+- Github: [tedjacobs] (https://github.com/tedjacobs)
+- Twitter: unable to sign in
+

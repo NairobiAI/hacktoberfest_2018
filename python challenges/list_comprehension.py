@@ -1,2 +1,7 @@
-# Create a list comprehension that returns a list of even numbers
-# from 1 - 20 (20 included)
+def is_even_num(1):
+	enum = []
+	for n in 1:
+		if n % 2 == 0:
+			enum.append(n)
+	return enum
+print(is_even_num([1:21]))

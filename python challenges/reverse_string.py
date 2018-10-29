@@ -1,2 +1,3 @@
-# Create a function takes in a string and returns
-# the reverse of that string
+def print_reversed(s):
+	for letter in reversed(s):
+		print letter

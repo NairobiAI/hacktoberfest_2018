@@ -1,2 +1,4 @@
-# Create a function that takes in a user's input and displays it
-# back to the screen
+def name():
+	print input('What is your name? ')
+x = input('What is your name?')
+	print 'Your name is ' + x
